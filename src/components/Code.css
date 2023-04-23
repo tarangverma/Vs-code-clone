@@ -1,0 +1,13 @@
+.code-1 {
+    background: #2D2727;
+    height: 720px;
+    width: 1180px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.para-4{
+    margin-top: 10px;
+}
